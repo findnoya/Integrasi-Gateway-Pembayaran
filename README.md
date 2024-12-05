@@ -83,5 +83,6 @@ def sync_transactions():
     else:
         save_transactions_to_db(transactions_data)
 ```
+### Terimakasih
 
 
